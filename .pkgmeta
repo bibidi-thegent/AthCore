@@ -1,0 +1,7 @@
+package-as: AthCore
+project-id: 1498456
+enable-nolib-creation: no
+ignore:
+  - .github
+  - .gitignore
+  - CURSEFORGE.md

@@ -1,0 +1,25 @@
+## Interface: 120000, 120001
+## Title: |cffFFD100Ath|rCore
+## Notes: Athenaeum Core - shared UI, minimap, toasts, and theme for all Ath modules.|n|cffFFD700/ath|r to open.
+## Author: Bibidi
+## Version: 1.1.0
+## IconTexture: Interface\AddOns\AthCore\Textures\AthIcon
+## SavedVariables: AthCoreDB
+## SavedVariablesPerCharacter: AthCoreCharDB
+## Category: Athenaeum
+
+embeds.xml
+
+Core\Constants.lua
+Core\Config.lua
+Core\Utils.lua
+Core\Comms.lua
+Core\Registry.lua
+
+UI\Shared.lua
+UI\ZAxis.lua
+UI\Toast.lua
+UI\MinimapIcon.lua
+UI\Options.lua
+
+AthCore.lua
