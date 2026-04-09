@@ -4,7 +4,7 @@
 AthCore = AthCore or {}
 local ATH = AthCore
 
-ATH.VERSION      = "1.1.0"
+ATH.VERSION      = "1.1.1"
 ATH.ADDON_NAME   = "AthCore"
 ATH.ADDON_PREFIX = "Athenaeum" -- C_ChatInfo.SendAddonMessage prefix (max 16 chars)
 
